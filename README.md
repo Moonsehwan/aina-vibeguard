@@ -63,7 +63,7 @@ curl -X POST https://pleasing-transformation-production-90c2.up.railway.app/v1/s
   -F "file=@your_file.py"
 ```
 
-**Free beta key:** `vg_free_test` — full Pro access free until **2026-06-25**.
+**Free beta key:** `vg_free_test` — full Pro access free during open beta.
 
 Supported extensions: `.py` `.js` `.ts` `.tsx` `.go` `.java` `.kt` `.php` `.rb` `.c` `.cpp`
 
